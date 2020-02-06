@@ -27,7 +27,7 @@ Após isso, colocar o comando
 ```sh
 npm start 
 ```
-para iniciar o programa, ele irá abrir na porta 3000 (caso não esteja ocuapada).
+para iniciar o programa, ele irá abrir na porta 3000 (caso não esteja ocupada).
 
 ## Meta
 
