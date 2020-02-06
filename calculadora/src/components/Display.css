@@ -1,0 +1,15 @@
+.display {
+    /* O span irá ocupar um valor de 4 colunas */
+    grid-column: span 4;
+    background-color: #0004;
+
+    display: flex;
+    /* com o justify-content: flex-end o valor foi para o lado direito da tela */
+    justify-content: flex-end;
+    /* Com o align-items: center o valor vai ser centralizado */
+    align-items: center;
+    padding: 20px;
+    font-size: 2.1em;
+    /* Evita que os valores passem da tela caso sejam grandes */
+    overflow: hidden;
+}

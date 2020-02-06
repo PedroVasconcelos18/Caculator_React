@@ -1,0 +1,24 @@
+/* pegando a fonte */
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./fonts/RobotoMono-Thin.ttf');
+}
+
+/* aplicando a fonte a tudo*/
+/* Usar a font Robotomono como principal mas se não
+encontrar ela, usar a monospace */
+
+* {
+  font-family: 'RobotoMono', monospace;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #fff;
+  background: linear-gradient(to right, #c02425, #f0cb35);
+}

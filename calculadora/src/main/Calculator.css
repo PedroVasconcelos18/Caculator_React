@@ -1,0 +1,13 @@
+.calculator {
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden;
+    
+
+    display: grid;
+    /* Dividiu a tela em 4 colunas com 25% cada */
+    grid-template-columns: repeat(4, 25%);
+    /* Dividiu a tela em 5 linhas com 48px cada e um fragmente(1fr) com o espeaço que sobrou */
+    grid-template-rows: 1fr 48px 48px 48px 48px 48px;
+}
