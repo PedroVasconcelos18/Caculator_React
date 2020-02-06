@@ -29,7 +29,7 @@ npm start
 ```
 para iniciar o programa, ele irá abrir na porta 3000 (caso não esteja ocupada).
 
-## Meta
+## Informações sobre mim
 
 Pedro Henrique Vasconcelos – pedrohvss15@gmail.com - https://www.linkedin.com/in/pedro-henrique-46016816a/
 
